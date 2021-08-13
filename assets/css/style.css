@@ -44,10 +44,13 @@ body {
 a {
     color: #ffffff;
     text-decoration: none;
+    padding: 8px;
+    display:inline-block;
 }
 
 a:hover {
-    color: #d9dcd6;
+    background-color: #d9dcd6;
+    color: #2a607c;
     text-decoration: underline;
 }
 
